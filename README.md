@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">Hi ! I'm an Electrical Engineer, specializing in E-Vehicle Technology, with strong passion for Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regardsvaibhav" alt="regardsvaibhav" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning (Supervised and Unsupervised Learning), Deep Learning, Natural Language Processing (NLP), Tensorflow**
 
 <h3 align="left">Connect with me:</h3>
