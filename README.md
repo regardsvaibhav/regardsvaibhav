@@ -12,10 +12,7 @@
 <h3 align="left">About Me 🚀</h3>
 <p align="left">
 I’m Vaibhav, an Electrical Engineering undergrad passionate about <strong>Machine Learning</strong> and its applications in the <strong>research and development field</strong>.
-<br><br>
-📄 <a href="https://scholar.google.com/citations?user=sfh0klMAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>  
-<br>
-📘 <a href="https://ieeexplore.ieee.org/author/37089976769" target="_blank">IEEE Author Profile</a>
+
 </p>
 
 <h2 align="left">Achievements and Accolades</h2>
