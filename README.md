@@ -1,4 +1,4 @@
-# 👋 Hi ! Vaibhav this side..
+# 👋 Hi ! I'm Vaibhav
 **Machine Learning Engineer | Electrical Engineer (E-Vehicle Tech) | Research-oriented**
 
 I build **production-minded ML systems** that solve real-world problems in **computer vision, decentralized AI and intelligent mobility**.  
