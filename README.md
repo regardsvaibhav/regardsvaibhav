@@ -12,14 +12,7 @@ EE @ RGIPT | UG Researcher
 
 ### 🚀 About Me
 
-- ⚡ Summer Intern at Reliance Industries Limited (Vadodara Manufacturing Division)
+- ⚡ Summer Intern at Reliance Industries Limited
 - 🔬 Research interests: Machine Learning, Computer Vision, Federated Learning & Intelligent Energy Systems
 - 🏆 Smart India Hackathon 2024 Grand Finalist
 - 🥈 HMEL Quest Innovation Challenge Runner-Up
-
----
-
-### 📫 Connect
-
-- Email: **connect.vaibhavm@gmail.com**
-- LinkedIn: **linkedin.com/in/vaibhavrgipt**
